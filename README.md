@@ -1,5 +1,3 @@
-# Stack-Cheat-Sheet-And-Practice-Question-upon-it.
-
 # Stack Cheat Sheet
 
 ## 1. Stack Overview
